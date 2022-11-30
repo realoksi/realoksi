@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **realoksi/realoksi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+	<h2>What am I even doing?</h2>
+	<img src="https://media.tenor.com/IHGtqUniDHkAAAAd/milky-holmes-anime.gif" align="right" width="190px" alt="sherlock bouncing" />
+	<p>I guess I'm some sort of developer? I've learned and used languages of many different heights over my time of creating applications. I'm currently learning Rust, but my favorite language right now would be Python simply due to its flexibility and ease of use.<br><br>I need to redo and expand on this section, but this is fine for now.</p>
+</div>
